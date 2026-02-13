@@ -13,6 +13,9 @@ switch (animals) {
     case 4:
         console.log("sigir")
         break;
+    case 5:
+        console.log("ot")
+        break;
 }
 
 let a = 2
